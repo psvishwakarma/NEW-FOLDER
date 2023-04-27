@@ -1,0 +1,114 @@
+* {
+    font-family: "Open Sans",sans-serif;
+    }
+    *, ol, ul {
+    margin: 0;
+    padding: 0;
+    }
+    body {font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    background-color: #fff;
+    }
+    .Vander h2{
+    color: #5200bb;
+    }
+    .Mainbox{
+    padding: 10px 25px;
+    margin: 10px 10px;
+    border-radius: 5px;
+    border: 1px white;
+    } 
+    section {
+    display: block;
+    }
+    .bs-main-section {
+    padding-top: 10px;
+    margin-bottom: 30px;
+    }
+    .bsHeader {
+    position: relative;
+    padding: 0;
+    }
+    .bsHeader .navbar {
+    background: #eaec97;
+    padding: 0.5rem 1rem;
+    border-bottom: 3px solid #9aceeb;
+    right: inherit;
+    width: 100%;
+    }
+    .fixed-top {
+    position: fixed;
+    top: 00px;
+    left: 00px;
+    z-index: 1030;
+    }
+    .navbar {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    }
+    .navbar-expand-lg>.container{
+    
+    flex-wrap: nowrap;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    }
+    .bscardBox {
+    padding: 0;
+    margin: 10px;
+    border: 1px seashell; 
+     border-radius: 0; 
+     box-shadow: 10px 10px 15px hsla(0,0%,58.4%,.050980392156862744);  
+    } 
+    /* footer css */
+    .bs-footer-main {
+    position: relative;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    top: 1;
+    text-align: center;
+    width: 100%;
+    display: block;
+    }
+    .bs-footer-main .bs-footer-copy-right {
+    background-color: #262c35;
+    color: #fff;
+    text-align: center;
+    font-size: 12px;
+    color: #f1f1f1;
+    padding: 15px 0;
+    position: relative;
+    }
+    .row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+    }
+    .bsRowBoxx {
+    padding: 10px 25px;
+    margin: 10px 0;
+    border-radius: 5px;
+    /* border: 1px solid #5200bb; */
+    }
+    .bsRowBoxx h5{
+     font-weight: bold;
+    color:black;
+    }
+    .btn{
+    padding: 5px 50px 5px 50px;
+    margin: 15px;
+    }
+    
